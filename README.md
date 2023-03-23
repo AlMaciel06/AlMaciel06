@@ -2,7 +2,7 @@
 
 My name is Alberto Maciel, I am a Mechatronics Engineer Student!!
 
-I am learning about Git!!
+I am working with Power Electronics in GREEN laboratory. Making a isolated Buck Rectifier.
 
 <!--
 **AlMaciel06/AlMaciel06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
