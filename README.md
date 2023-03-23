@@ -2,7 +2,7 @@
 
 My name is Alberto Maciel, I am a Mechatronics Engineer Student!!
 
-
+I am learning about Git!!
 
 <!--
 **AlMaciel06/AlMaciel06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
